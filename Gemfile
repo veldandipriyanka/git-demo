@@ -2,8 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
 
-# Bundle edge Rails instead:
-# gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
 
@@ -36,3 +34,8 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+# git diff demo
+#d,fsndfjs
+#d,fjds
+
